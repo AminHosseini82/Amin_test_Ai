@@ -1326,8 +1326,6 @@ class ProjectTester:
 def main():
     """
     Main function for testing your implementations
-
-    TODO: Uncomment sections as you complete each agent implementation
     """
 
     print("Multi-Agent Systems Project - Testing Framework")
@@ -1335,7 +1333,6 @@ def main():
 
     tester = ProjectTester()
 
-    # TODO: Uncomment these as you implement each agent
     print("\n1. Testing SimpleReflexAgent...")
     tester.test_single_agent(SimpleReflexAgent)
 
